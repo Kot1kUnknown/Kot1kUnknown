@@ -1,5 +1,5 @@
 <h1 align="center">Привет! 👋, Я Денис</h1>
-<h3 align="center">Я миддл разработчик на pythyn</h3>
+<h3 align="center">Я миддл разработчик на python</h3>
 
 - 🔭 В данный момент работаю на проектом [EconomyDiscordBot](https://github.com/Kot1kUnknown/DocumForEconomyDiscordBot)
 
