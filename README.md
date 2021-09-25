@@ -11,7 +11,7 @@
 
 - ⚡ Интересный факт **Очень люблю кофе и котов :)**
 
-<h3 align="left">Добавьсе ко мне:</h3>
+<h3 align="left">Добавься ко мне:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/denis_puchkarev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/denis_puchkarev/" height="30" width="40" /></a>
 <a href="https://discord.gg/shurup.#7531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shurup.#7531" height="30" width="40" /></a>
