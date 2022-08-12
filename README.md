@@ -1,8 +1,6 @@
 <h1 align="center">Привет! 👋, Я Денис</h1>
 <h3 align="center">Я миддл разработчик на python</h3>
 
-- 👨‍💻 Сейчас я изучаю **javascript, django**
-
 - 💬 Могу помочь с **python, c++, html, css.**
 
 - 📫 Связаться со мной можно во ВКонтакте **https://vk.com/id639006694**
